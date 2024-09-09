@@ -1,4 +1,4 @@
-
+# Remade By V4rxy If AImmmy Want A takeDOwn ask me on Discord @v4rxy
 > [!NOTE]
 > If you enjoy Aimmy, please consider giving us a star ⭐! We appreciate it! :)
   <p>
