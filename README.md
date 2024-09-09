@@ -184,3 +184,5 @@ Create the pull request (again)
 You are done! We will review your pull request and your model will be added in 24-48 hours. If you would like to remove your model from the "Downloadable Models" tab, you may make another pull request or contact us on the Issues tab.
 
 For anyone who does this, thank you so much =D, Aimmy genuinely thrives with community contributions and support, and making and sharing your Aimmy models genuinely means a lot to us! Thank you!
+
+If AImmmy Want To TakeDown This Recolor ask me on Discord @v4rxy
