@@ -185,4 +185,4 @@ You are done! We will review your pull request and your model will be added in 2
 
 For anyone who does this, thank you so much =D, Aimmy genuinely thrives with community contributions and support, and making and sharing your Aimmy models genuinely means a lot to us! Thank you!
 
-# (If AImmmy Want To TakeDown This Recolor ask me on Discord @v4rxy)
+### (If Aimmy Want To TakeDown This Recolor ask me on Discord @V4rxy)
