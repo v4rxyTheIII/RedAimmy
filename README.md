@@ -1,4 +1,4 @@
-# Recolor By V4rxyTheIII
+
 > [!NOTE]
 > If you enjoy Aimmy, please consider giving us a star ⭐! We appreciate it! :)
   <p>
